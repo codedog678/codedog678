@@ -10,24 +10,6 @@
 
 </div>
 
----
-
-## 📊 我的 GitHub 战况
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=codedog678&show_icons=true&theme=gruvbox&hide_border=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" width="48%" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=codedog678&theme=highcontrast&hide_border=true&background=30,e96443,904e95" width="48%" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codedog678&layout=donut&theme=radical&hide_border=true" width="40%" />
-
-</div>
-
----
-
 ## 🏆 成就奖杯
 
 <div align="center">
@@ -40,8 +22,6 @@
 
 ## 🎯 2026 年成长目标
 
-- [√] 学会用 Git（不再把代码发给自己邮箱）
-- [√] 写出第一个能跑的程序（跑一天也算跑）
 - [ ] 学会写注释（写代码5分钟，写注释2小时）
 - [ ] 不再害怕报错（红字是成长的证明！）
 - [ ] 学会重构代码（Ctrl+A, Delete, Rewrite）
