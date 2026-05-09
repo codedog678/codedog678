@@ -3,10 +3,10 @@
 <div align="center">
 
 **理想中我写代码：**
-<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="300">
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="100">
 
 **实际上我写代码：**
-<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="300">
+<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="100">
 
 </div>
 
@@ -71,8 +71,6 @@ while alive:
 ## 🐾 小狗脚印
 
 <div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=codedog678&color=F7B93E&style=for-the-badge&label= visitor（你看！有人来看我！）" />
 
 
 ### 💬 今日毒鸡汤
