@@ -10,24 +10,6 @@
 
 </div>
 
-## 🏆 成就奖杯
-
-<div align="center">
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=codedog678&theme=juicyfresh&no-frame=true&row=1&column=6)
-
-</div>
-
----
-
-## 🎯 2026 年成长目标
-
-- [ ] 学会写注释（写代码5分钟，写注释2小时）
-- [ ] 不再害怕报错（红字是成长的证明！）
-- [ ] 学会重构代码（Ctrl+A, Delete, Rewrite）
-
----
-
 ## 🎪 我的日常
 
 ```python
